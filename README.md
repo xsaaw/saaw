@@ -35,7 +35,7 @@ bash rvt.sh
 ## [+] Find Me on :
 
 [![Github](https://img.shields.io/badge/Facebook-fikrado-blue?style=for-the-badge&logo=facebook)](https://facebook.com/mrsaaw)
-[![Github](https://img.shields.io/badge/WhatsApp-Mr_Yahye-lightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=201091932020)
-[![Github](https://img.shields.io/badge/TELEGRAM-MR_Yahye-orange?style=for-the-badge&logo=telegram)](https://t.me/xxsaawxx)
-[![Github](https://img.shields.io/badge/Twitter-fikrado-aqua?style=for-the-badge&logo=twitter)](https://twitter.com/sniper_cach)
+[![Github](https://img.shields.io/badge/WhatsApp-MaSterX-lightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=201091932020)
+[![Github](https://img.shields.io/badge/TELEGRAM-MaSterX-orange?style=for-the-badge&logo=telegram)](https://t.me/xxsaawxx)
+[![Github](https://img.shields.io/badge/Twitter-MaSterX-red?style=for-the-badge&logo=twitter)](https://twitter.com/sniper_cach)
 
