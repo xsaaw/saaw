@@ -8,7 +8,7 @@
 apt update && upgrade -y 
 pkg install git python mpv figlet -y
 pip install lolcat
-git clone https://github.com/saaw/saaw
+git clone https://github.com/xsaaw/saaw
 cd saaw
 chmod +x *
 sh install.sh
@@ -16,7 +16,7 @@ exit
 ```
 ### One command installation :octocat:
 ```
-apt update && upgrade -y && apt install git -y && pkg install mpv figlet python && pip install lolcat && git clone https://github.com/saaw/saaw && cd saaw && chmod +x * && ./install.sh
+apt update && upgrade -y && apt install git -y && pkg install mpv figlet python && pip install lolcat && git clone https://github.com/xsaaw/saaw && cd saaw && chmod +x * && ./install.sh
 ```
 ## screen shot
 
