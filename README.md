@@ -1,6 +1,5 @@
 # Termux interface MaSterX 
 
-<img src="/f.jpg" >
 
 #### MaSterX is Termux banner or interface with parroto os shell and Wellcome robot like Jarvis in Iron Man movie created with love By Egyptian Man 😎
 
